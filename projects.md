@@ -1,5 +1,5 @@
 ---
-title: The Medical Foundation Models
+title: Medical Foundation Model Projects
 layout: landing
 description: 'The AI Core of 21st Century Healthcare'
 image: assets/images/nyulh_campus_night.jpg
@@ -14,7 +14,7 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>NYU Medical Foundation Models - Projects</h2>
+			<h2>NYU Medical Foundation Models</h2>
 		</header>
 		<p>We imagine a world where medical foundation models impact every aspect of healthcare from patient to provider and everything in between. Here we list on-going efforts at NYU Langone to rethink every aspect of healthcare through foundation models. Individual project sites below contain information on specific initiatives and contain links to demos (where appropriate), manuscripts, and brief summaries of the research.</p>
 	</div>
