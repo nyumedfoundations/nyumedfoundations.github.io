@@ -1,5 +1,11 @@
 # NYU Medical Foundation Model Homepage
-This is the homepage for the NYU Medical Foundation Model Program.
+This is the homepage for the NYU Medical Foundation Model Program. 
+
+# ToDo
+- Link to domain nyumedfoundations.org
+- Add resources page
+- Link to OLAB and NYUMets
+- Add projects
 
 # Credits
 Site built on top of the Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
