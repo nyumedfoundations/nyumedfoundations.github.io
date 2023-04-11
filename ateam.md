@@ -28,6 +28,9 @@ show_tile: true
 	<h4>Yindalon Aphinyanaphongs, M.D., Ph.D.</h4>
 	<p><span class="image left"><img src="{% link assets/images/YindalonAphinyanaphongs_headshot.jpg %}" alt="" /></span> Director of the NYU Langone Predictive Analytics Unit. Turns medical AI ideas into medical AI tools.</p>
 
+	<h4>Lavender Yao Jiang, B.S.</h4>
+	<p><span class="image left"><img src="{% link assets/images/lavender_headshot.jpg %}" alt="" /></span> PhD Student, NYU OLAB. Does science, busy rethinking healthcare and building the future.</p>
+
 	<h4>Douglas Kondziolka, M.D.</h4>
 	<p><span class="image left"><img src="{% link assets/images/lavender_headshot.jpg %}" alt="" /></span> Chairman of Ner.</p>
 
@@ -40,9 +43,6 @@ show_tile: true
 <div class="row">
 	<h4>Eric Karl Oermann, M.D.</h4>
 	<p><span class="image left"><img src="{% link assets/images/oermann_novalis.jpg %}" alt="" /></span> Principal Investigator, NYU OLAB. Gets ideas from time to time, builds the infrastructure, brings the corgis.</p>
-
-	<h4>Lavender Yao Jiang, B.S.</h4>
-	<p><span class="image left"><img src="{% link assets/images/lavender_headshot.jpg %}" alt="" /></span> PhD Student, NYU OLAB. Does science, busy rethinking healthcare and building the future.</p>
 
 	<h4>Mustafa Nasir-Moin, B.S.</h4>
 	<p><span class="image left"><img src="{% link assets/images/oermann_novalis.jpg %}" alt="" /></span> Researcher, NYU OLAB, and student at HMS. Does science, studies medicine, building the future.</p>
