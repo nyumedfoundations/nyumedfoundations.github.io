@@ -18,6 +18,23 @@ show_tile: true
 
 <p>This is our amazing team. It comes from across NYULH.</p>
 
+<!-- Leadership -->
+<h2 id="elements">Leadership</h2>
+<div class="row 200%">
+
+<div class="row">
+	<h4>Eric Karl Oermann, M.D.</h4>
+	<p><span class="image left"><img src="{% link assets/images/oermann_novalis.jpg %}" alt="" /></span> Principal Investigator, NYU OLAB. Gets ideas from time to time, builds the infrastructure, brings the corgis.</p>
+
+	<h4>Douglas Kondziolka, M.D.</h4>
+	<p><span class="image left"><img src="{% link assets/images/lavender_headshot.jpg %}" alt="" /></span> Chairman of Ner.</p>
+
+	<h4>John Golfinos, M.D.</h4>
+	<p><span class="image left"><img src="{% link assets/images/oermann_novalis.jpg %}" alt="" /></span> Researcher, NYU OLAB, and student at HMS. Does science, studies medicine, building the future.</p>
+</div>
+
+<hr class="major" />
+
 <!-- Science and Engineering -->
 <h2 id="elements">Science and Engineering</h2>
 <div class="row 200%">
