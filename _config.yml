@@ -1,0 +1,44 @@
+# site settings
+title: NYU Medical Foundation Model Program
+subtitle: by NYU OLAB
+email: shannon.ciprut@nyulangone.org
+description: Smarter Healthcare through Medical Foundation Models
+# baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: EKO
+street_address: 450 First Avenue
+city: New York
+state: NY
+zip_code: 10016
+country: United States of America
+phone: 212.263.2480
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/nyuolab
+  GitLab:
+  Google-Plus-G: https://scholar.google.com/citations?user=GQum-K4AAAAJ&hl=en
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/eric-oermann-b829528/
+  Twitter: https://twitter.com/ekoermann
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
