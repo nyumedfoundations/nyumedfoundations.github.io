@@ -38,7 +38,6 @@ show_tile: true
 <!-- Elements -->
 <h2 id="elements">Operations</h2>
 <div class="row 200%">
-	<div class="6u 12u$(medium)">
 
 <div class="row">
 	<h4>Yindalon Aphinyanaphongs, M.D., Ph.D.</h4>
