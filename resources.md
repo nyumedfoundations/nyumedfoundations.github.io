@@ -25,6 +25,13 @@ show_tile: false
 
 <hr class="major" />
 
+<!-- Model Resources -->
+<h2 id="elements">Models</h2>
+
+<p>Models for the NYU Medical Foudnation Model Program are currently being hosted for internal use only by the NYU Olab. [See here for a summary of available models](https://github.com/nyuolab/OLabHome/wiki/Resources:-Models).</p>
+
+<hr class="major" />
+
 <!-- Data Resources -->
 <h2 id="elements">Data</h2>
 
